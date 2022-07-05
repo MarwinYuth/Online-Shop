@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #6339b0;
+}
+.platform{
+    width: 800px;
+    margin-top: 300px;
+    opacity: 50%;
+    height: 350px;
+}
+.platform img{
+    height: 70px;
+    height: 150px;
+    color: white;
+}
+.top input{
+    margin-top: 5px;
+    width: 650px;
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 20px;
+}
+.top button{
+    margin-top: 20px;
+    background-color: #6036aa;
+    width: 400px;
+    color: white;
+    font-size: 20px;
+}
+.border-bottom{
+    border: 2px solid white;
+    margin-top: 5px;
+    width: 700px;
+}
+#error{
+    color: red;
+    font-size: 20px;
+}
